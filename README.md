@@ -1,2 +1,2 @@
-# Challenge-by-Dio
-Desafio de projeto sobre Git/GitHub
+# Challenge Suggested by DIO about Git/GitHub 
+Projeto sobre Git/GitHub
